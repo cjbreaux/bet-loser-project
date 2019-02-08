@@ -1,4 +1,4 @@
-# Bet Loser
+![bet loser logo](imgs/logo.jpg)
 
 ### Team project for Epicodus - 2019-0204
 
@@ -59,8 +59,6 @@ New bet will be added at the top of list of current bets | New bet created | Bet
 
 
 ## Known Bugs
-
-![placeholder img](imgs/generic-person.png)
 
 * None known
 
